@@ -1,3 +1,3 @@
-#Desafio de Projeto Git/GitHub
+# Desafio de Projeto Git/GitHub
 
-##Repositorio criado para desafio de projeto.
+## Repositorio criado para desafio de projeto.
