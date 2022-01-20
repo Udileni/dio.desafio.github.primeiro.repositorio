@@ -1,1 +1,33 @@
-vou usar github
+Git -> sistema distribuído.
+
+GitHub é documentação, guias e tópicos de ajuda para desenvolvedores de software, designers e gerentes de projeto. 
+Abrange o uso do Git, pull requests, problemas, wikis, gists e tudo o que você precisa para aproveitar ao máximo o GitHub para desenvolvimento.
+Via: https://docs.github.com/pt/github  
+
+Comandos:
+
+cd / -> avançar na pasta
+cd .. -> voltar na pasta
+cd (nome da pasta) -> entrar na pasta
+ctrl + l-> limpar tela
+cp -> copiar arquivo de diretorio
+
+dir -> lista de diretorios
+mkdir -> criar diretorio
+rmdir -> deletar diretorio
+mv -> mover
+
+echo -> escrever na tela
+del -> deletar arquivo
+
+ls -> lista
+ls -a -> lista documentos ocultos
+ls -R -> lista arquivos nos subdiretorios
+
+git config -> para configurações no git
+git clone -> baixa o código fonte de um repositorio no computador local
+git status-> monitora os arquivos
+git init -> inicia o git
+git add -> modifica o git
+git commit - m -> comita o git
+git push -> empurra as alterações eitas para o repositorio do GitHub
